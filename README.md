@@ -43,7 +43,7 @@ I'm a passionate developer focused on building web and app solutions with an emp
 ## 📫 Connect with Me
 
 - [GitHub](https://github.com/zenju17)
-- Email: hokdo206@example.com
+- Email: hokdo206@gmail.com
 
 ---
 
