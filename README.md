@@ -31,6 +31,5 @@ Web/App Developer passionate about building clean, modern, and practical digital
 - More full-stack development skills
 
 ## Connect with me
-- GitHub: https://github.com/YOUR-USERNAME
-- Email: your-email@example.com
-- Portfolio: your-link-here
+- GitHub: https://github.com/zenju17
+- Email: hokdo206@example.com
